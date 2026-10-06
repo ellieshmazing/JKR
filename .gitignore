@@ -1,0 +1,7 @@
+# Collected/derived data, caches and API keys stay local
+data/*
+!data/.gitkeep
+*.txt
+.env
+__pycache__/
+*.pyc
